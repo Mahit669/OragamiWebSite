@@ -38,7 +38,57 @@ body{
     
 }
 
-.item{
+.item1{
+    border-radius: 20px;
+    background-color: white;
+    padding:30px;
+    margin:25px;
+    width:310px;
+    font-family:fantasy;
+
+}
+
+.item2{
+    border-radius: 20px;
+    background-color: white;
+    padding:30px;
+    margin:25px;
+    width:310px;
+    font-family:fantasy;
+
+}
+
+.item3{
+    border-radius: 20px;
+    background-color: white;
+    padding:30px;
+    margin:25px;
+    width:310px;
+    font-family:fantasy;
+
+}
+
+.item4{
+    border-radius: 20px;
+    background-color: white;
+    padding:30px;
+    margin:25px;
+    width:310px;
+    font-family:fantasy;
+
+}
+
+.item5{
+    border-radius: 20px;
+    background-color: white;
+    padding:30px;
+    margin:25px;
+    width:310px;
+    font-family:fantasy;
+
+}
+
+.item6{
     border-radius: 20px;
     background-color: white;
     padding:30px;
